@@ -1,0 +1,10 @@
+.env
+.venv/
+*.session
+*.session-journal
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*.db
+static/uploads/*
+!static/uploads/.gitkeep
